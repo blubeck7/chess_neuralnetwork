@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: project_report.aux
+The style file: plain.bst
+Database file #1: bib.bib.bib
+Warning--entry type for "bern" isn't style-file defined
+--line 34 of file bib.bib.bib
+Warning--entry type for "tscp" isn't style-file defined
+--line 66 of file bib.bib.bib
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            521 strings with 4375 characters,
+and the built_in function-call counts, 1295 in all, are:
+= -- 121
+> -- 42
+< -- 2
++ -- 18
+- -- 12
+* -- 57
+:= -- 235
+add.period$ -- 17
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 58
+empty$ -- 123
+format.name$ -- 12
+if$ -- 269
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 3
+newline$ -- 31
+num.names$ -- 12
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 48
+stack$ -- 0
+substring$ -- 30
+swap$ -- 7
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 12
+width$ -- 7
+write$ -- 61
+(There were 2 warnings)

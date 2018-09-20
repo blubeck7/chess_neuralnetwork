@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{wiering}
+author.
+\newblock title.
+\newblock {\em journal}, year.
+
+\bibitem{bern}
+Erik Bern.
+\newblock title.
+
+\bibitem{hart}
+Sergiu Hart.
+\newblock Games in extensive and strategic forms.
+\newblock In {\em Handbook of Game Theory}, volume~1, chapter~2. Elsevier
+  Science Publishers B.V., 1992.
+
+\bibitem{tscp}
+Tom Kerrigan.
+\newblock Tom kerrigan's home page.
+
+\bibitem{lai}
+Matthew Lai.
+\newblock Giraffe: Using deep reinforcement learning to play chess.
+\newblock Master's thesis, Imperial College of London, 2015.
+
+\bibitem{shannon}
+Claude~E. Shannon.
+\newblock Programming a computer for playing chess.
+\newblock {\em Philosophical Magazine}, 41(314), March 1950.
+
+\end{thebibliography}
